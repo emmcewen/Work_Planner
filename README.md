@@ -5,7 +5,7 @@ My quiz application uses HTML, CSS,Javascript and Jquery for its framework and f
 
 This project has been deployed to GitHub Pages. To play the coding quiz click on the deployment link to get started.
 <ul>
-<li>Deployed Page via GitHub: https://emmcewen.github.io/Coding-Quiz/
-<li> GitHub Repository: https://github.com/emmcewen/Coding-Quiz 
+<li>Deployed Page via GitHub: https://emmcewen.github.io/Work_Planner/
+<li> GitHub Repository: https://github.com/emmcewen/Work_Planner
 <li>Full Demo: https://github.com/emmcewen/Work_Planner/tree/main/Assets/images
 </li>
